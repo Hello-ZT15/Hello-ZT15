@@ -60,12 +60,12 @@
 
 <p align="center">
   <a href="https://github.com/deylinqff">
-    <img src="https://img.shields.io/badge/GitHub-Deylinqff-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-Hello-181717?style=for-the-badge&logo=github">
   </a>
   <a href="https://wa.me/51939467706">
     <img src="https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=for-the-badge&logo=whatsapp">
   </a>
-  <a href="mailto:deylibaquedano801@gmail.com">
+  <a href="mailto:zuritre25@gmail.com">
     <img src="https://img.shields.io/badge/Email-Enviame%20un%20un%20correo-EA4335?style=for-the-badge&logo=gmail">
   </a>
 </p>
@@ -74,15 +74,15 @@
 
 <p align="center">
   <a href="mailto:ninopina10@gmail.com">
-    <img src="https://img.shields.io/badge/Apoya a kirito en PayPal-000000?style=for-the-badge&logo=paypal&logoColor=white" alt="Apoya con PayPal" />
+    <img src="https://img.shields.io/badge/Apoya mediante PayPal-000000?style=for-the-badge&logo=paypal&logoColor=white" alt="Apoya con PayPal" />
   </a>
 </p>
 
-## ⚔️ [© Powered By Deyin 👑](https://Wa.me/50488198573)
+## ⚔️ [© Powered By ZTMC 👑](https://Wa.me/51939467706)
 
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029VawF8fBBvvsktcInIz3m" target="_blank">
-    <img src="https://img.shields.io/badge/©%20Powered%20By%20Deyin-000000?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Canal Oficial de Deyin">
+  <a href="https://whatsapp.com/channel/0029Vb6alsm2phHPH5rSuO2U" target="_blank">
+    <img src="https://img.shields.io/badge/©%20Powered%20By%20Zuri-000000?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Canal Oficial">
   </a>
 </p>
 
