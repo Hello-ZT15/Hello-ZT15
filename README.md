@@ -14,6 +14,11 @@
   <img src="JPEG_20241226_140327_3547000542132059692.jpg" alt="Menú Principal">
 </p>  
 
+<p align="center">
+  <img src="20250325_224819.gif" alt="Menú Principal">
+</p>
+
+
 ---
 
 ### 🏆 **Información**  
