@@ -18,7 +18,7 @@
 ---
 ## 🚀 **Explora Kirito-Bot**  
 <p align="center">
-  <img src="JPEG_20241226_140327_3547000542132059692.jpg" alt="Kirito-Bot">
+  <img src="Captura de pantalla_2025-02-13_17-30-16.png" alt="Kirito-Bot">
 </p>  
 
 ---
