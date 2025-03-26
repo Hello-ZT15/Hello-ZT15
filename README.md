@@ -18,7 +18,7 @@
 ---
 ## 🚀 **Explora Kirito-Bot**  
 <p align="center">
-  <img src="https://files.catbox.moe/91wohc.jpg" alt="Kirito-Bot">
+  <img src="JPEG_20241226_140327_3547000542132059692.jpg" alt="Kirito-Bot">
 </p>  
 
 ---
