@@ -4,7 +4,7 @@
 
 ---
 <p align="center">
-  <img src="https://files.catbox.moe/i9m71s.jpg" alt="Menú Principal">
+  <img src="https://images.app.goo.gl/8RXDPZ8JscUdGYi4A" alt="Menú Principal">
 </p>  
 
 ---
