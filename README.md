@@ -1,7 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com??lines=Hola+soy+zuri+?font=Fira+Code&size=40&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=+¡HOLA,+SOY+Zuri!+" alt="Typing SVG">
-</h1>
-
+  img src="https://readme-typing-svg.herokuapp.com/demo/?font=Robot&size=40&duration=1000&color=00CE16&background=3275FF00&width=445&height=90&lines=++++++++++++++++++++++++++++++++++%E2%9D%95%EF%B8%8FHola+soy+Zuri%E2%9D%95%EF%B8%8F"
 ---
 <p align="center">
   <img src="JPEG_20241226_140327_3547000542132059692.jpg" alt="Menú Principal">
