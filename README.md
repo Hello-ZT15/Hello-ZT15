@@ -73,7 +73,7 @@
 ## 🎯 **Apoya el Proyecto**
 
 <p align="center">
-  <a href="mailto:ninopina10@gmail.com">
+  <a href="zuritre25@gmail.com">
     <img src="https://img.shields.io/badge/Apoya mediante PayPal-000000?style=for-the-badge&logo=paypal&logoColor=white" alt="Apoya con PayPal" />
   </a>
 </p>
