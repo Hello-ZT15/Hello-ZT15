@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="JPEG_20241226_140327_3547000542132059692.jpg?font=Fira+Code&size=40&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=+¡HOLA,+SOY+Zuri!+" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/demo/?lines=Hola+soy+zuri+?font=Fira+Code&size=40&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=+¡HOLA,+SOY+Zuri!+" alt="Typing SVG">
 </h1>
 
 ---
 <p align="center">
-  <img URL="https://images.app.goo.gl/8RXDPZ8JscUdGYi4A" alt="Menú Principal">
+  <img src="JPEG_20241226_140327_3547000542132059692.jpg" alt="Menú Principal">
 </p>  
 
 ---
