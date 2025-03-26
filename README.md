@@ -39,7 +39,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=00CCFF&lines=+Proyectos+no+disponibles;Se+informara+✅️)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=00CCFF&lines=+Proyectos+disponibles;WhatsApp++✅️)](https://git.io/typing-svg)  
 
 ## 📊 **Estadísticas de GitHub**
 
