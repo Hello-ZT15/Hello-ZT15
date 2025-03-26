@@ -9,114 +9,25 @@
 
 ---
 
-### 🏆 **Poder y Precisión en un Solo Bot**  
-📌 **Creado por:** `Deylin`  
-⚔ **Optimizado para WhatsApp**  
-🔮 **Diseño inspirado en Sword Art Online**  
-🚀 **¡Rápido, potente y seguro!**  
+### 🏆 **Información**  
+✔️ **Creado por:** `Hello-ZTMC`  
+✔️ **Optimizado para WhatsApp**  
+✔️ **Diseño inspirado en Sword Art Online**
 
 ---
-## 🚀 **Explora Kirito-Bot**  
+## 🚀 **Explora Recursos**  
 <p align="center">
   <img src="Captura de pantalla_2025-02-13_17-30-16.png" alt="Kirito-Bot">
 </p>  
 
----
-## 🔥 **¡Únete y Personaliza!**  
-<a href="https://github.com/deylinqff">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=0099FF&width=435&lines=⚔️+CLONA+EL+REPOSITORIO+⚔️" alt="Typing SVG">
-</a> 
-
-
-
-#### **`👑 Instalación por termux`**
-
-<details>
- <summary><b> 👉 Click para los ver Comandos</b></summary>
-
-#### **🪄 Instalación manual por termux**
-> copie y peguen en termux uno por uno 
-```bash
-termux-setup-storage
-```
-
-```bash
-apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
-```
-
-```bash
-git clone https://github.com/deylinqff/Kirito-Bot-MD && cd Kirito-Bot-MD
-```
-
-```bash
-yarn install && npm install
-```
-
-```bash
-npm start
-```
-> si despues de poner el numero de WhatsApp, y sale letras en roja no se preocupe es normal 
----
-
-#### **🟢 Activar en caso de detenerse en termux**
-
-Si después de instalar el bot en Termux se detiene (pantalla en blanco, pérdida de conexión a Internet, reinicio del dispositivo), sigue estos pasos:
-
-1. Abre Termux y navega al directorio del bot:
-    ```bash
-    cd Kirito-Bot-MD
-    ```
-
-2. Inicia el bot nuevamente:
-    ```bash
-    npm start
-    ```
-
----
-
-#### **🔥 Obtener otro codigo qr en termux**
-
-Si después de instalar el bot en Termux y iniciar la session del bot (el numero se va a soporte, se cierra la conexión o demorastes al conectar), sigue estos pasos:
-
-1. Abre Termux y navega al directorio del bot:
-    ```bash
-    cd Kirito-Bot-MD
-    ```
-
-2. Elimina la carpeta MiniSession:
-    ```bash
-    rm -rf kiritoSession
-    ```
-
-3. Inicia el bot nuevamente:
-    ```bash
-    npm start
-    ```
-
----
-
-### **😼 Para activar 24/7 (termux)**
-
-> comando para obtener la bot 24/7 en termux
-
-```bash
-npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
-```
-
----
-
-</details>
-
----
-
 
 ## 🌐 ***Forma parte de la Comunidad*** 
 
-💬 **Canal Oficial:** [`Click👑Aquí`](https://whatsapp.com/channel/0029VawF8fBBvvsktcInIz3m)  
+💬 **Canal Oficial:** [`Click❎️Aquí`](https://whatsapp.com/channel/0029Vb6alsm2phHPH5rSuO2U)  
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=00CCFF&lines=✨+Espero+que+disfrutes+este+repositorio;💙+Creado+con+dedicación;⚔️+By+Mr.|Deyin+🌠🚀)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=00CCFF&lines=+Proyectos+no+disponibles;Se+informara+✅️)](https://git.io/typing-svg)  
 
 ## 📊 **Estadísticas de GitHub**
 
