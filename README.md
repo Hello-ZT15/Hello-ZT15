@@ -15,19 +15,19 @@
 </p>  
 
 <p align="center">
-  <img src="20250325_224819.gif" alt="Menú Principal">
+  <img src="20250325_231611.gif" alt="Menú Principal">
 </p>
 
 
 ---
 
 ### 🏆 **Información**  
-©️ **Creado por:** `Hello-ZTMC`  
-✔️ **Optimizado para WhatsApp**  
-✔️ **Diseño inspirado en Sword Art Online**
+©️ **Creador:** `Hello-ZTMC`  
+✔️ **Compatibilidad dispositivo Android**  
+✔️ **Senior**
 
 ---
-## 🚀 **Explora Recursos**  
+## 🚀 **Explorar Recursos**  
 <p align="center">
   <img src="Captura de pantalla_2025-02-13_17-30-16.png" alt="Kirito-Bot">
 </p>  
@@ -62,7 +62,7 @@
   <a href="https://github.com/deylinqff">
     <img src="https://img.shields.io/badge/GitHub-Deylinqff-181717?style=for-the-badge&logo=github">
   </a>
-  <a href="https://wa.me/50488198573">
+  <a href="https://wa.me/51939467706">
     <img src="https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=for-the-badge&logo=whatsapp">
   </a>
   <a href="mailto:deylibaquedano801@gmail.com">
