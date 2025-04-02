@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=HELLO%20-ZT15&fontColor=C0C0C0"/>
+
+<img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=HELLO%20-ZT15&fontColor=C0C0C0&descAlignY=39&descSize=22&stroke=9&animation=scaleIn&fontSize=60&reversal=true"/>
 
 
 <h1 align="center">
