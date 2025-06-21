@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <img src="JPEG_20241226_140327_3547000542132059692.jpg" alt="Menú Principal">
+  <img src="e9ea347d7bc199e10ac7f1592ce8abe5.gif" alt="Menú Principal">
 </p>  
 
 <p align="center">
