@@ -3,7 +3,7 @@
 
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=500&color=00F711FF&center=true&vCenter=true&width=500&lines=👋+¡HOLA,+Soy+Zuri+" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=500&color=00F711FF&center=true&vCenter=true&width=500&lines=❕️+Fsociety+❕️+" alt="Typing SVG">
 </p>
 
 ---
@@ -24,9 +24,9 @@
 ---
 
 ### 🏆 **Información**  
-©️ **Creador:** `Hello-ZTMC`  
+©️ **Reconocimiento:** `Hello-ZTMC`  
 ✔️ **Compatibilidad dispositivo Android**  
-✔️ **Senior**
+✔️ **Status**
 
 ---
 ## 🚀 **Explorar Recursos**  
